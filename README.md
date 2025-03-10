@@ -9,7 +9,7 @@ I specialize in building **cross-platform applications**, scalable **backend sys
 - **Mobile:** Flutter  
 - **Backend:** Firebase, Node.js, AWS, Firebase Functions  
 - **Database:** Firestore, PostgreSQL, MongoDB  
-- **Others:** Riverpod, Redux, REST APIs, Microservices  
+- **Others:** REST APIs, Microservices  
 
 ---
 
