@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Aditya Arya 👋  
 
-<!--
-**adityaarya23/adityaarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Mobile & Backend Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+I specialize in building **cross-platform applications**, scalable **backend systems**, and exploring new technologies. Passionate about **clean code, optimization techniques, and problem-solving**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+- **Languages:** Dart, TypeScript, JavaScript, Python, Next.js 
+- **Mobile:** Flutter  
+- **Backend:** Firebase, Node.js, AWS, Firebase Functions  
+- **Database:** Firestore, PostgreSQL, MongoDB  
+- **Others:** Riverpod, Redux, REST APIs, Microservices  
+
+---
+
+🔍 _Always open to discussions & collaborations! Feel free to explore my repositories._ 🚀  
